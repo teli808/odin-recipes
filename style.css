@@ -1,0 +1,11 @@
+.styled_header,
+.styled_item {
+    background-color: green;
+    color: purple;
+    font-family: Verdana, Georgia, sans-serif;
+}
+
+.styled_item {
+    font-size: 24px;
+    font-weight: 800;
+}
